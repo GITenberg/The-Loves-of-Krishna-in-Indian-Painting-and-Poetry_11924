@@ -1,0 +1,32 @@
+_repo: The-Loves-of-Krishna-in-Indian-Painting-and-Poetry_11924
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Archer, W. G. (William George)
+    aliases:
+    - Archer, William George
+    - Archer, William G. (William George)
+    birthdate: 1907
+    deathdate: 1979
+    gutenberg_agent_id: '4135'
+    url: http://www.gutenberg.org/2009/agents/4135
+description: Introduction to the Indian god Krishna, stressing his supreme role in
+  the painting, poetry, and religion of India.
+gutenberg_bookshelf: Hinduism
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11924'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Sanskrit poetry -- History and criticism'
+- !lcsh 'Krishna (Hindu deity)'
+- !lcsh 'Hindu painting -- India'
+- !lcsh 'Hindu gods in art'
+- GITenberg
+title: The Loves of Krishna in Indian Painting and Poetry
+url: http://www.gutenberg.org/ebooks/11924
